@@ -14,14 +14,14 @@
 
 
 ## Table of content
-- [Overview of the project](https://github.com/nataliaburrey/Solidity_Joint_Account#overview-of-the-project) 
-- [Project goals](https://github.com/nataliaburrey/Solidity_Joint_Account#project-goals)
-- [Project steps](https://github.com/nataliaburrey/Solidity_Joint_Account#project-steps)
-- [Software version control](https://github.com/nataliaburrey/Solidity_Joint_Account#software-version-control)
-    - [Work with GitHub](https://github.com/nataliaburrey/Solidity_Joint_Account#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Solidity_Joint_Account#how-to-install)
-- [Helps recruiters](https://github.com/nataliaburrey/Solidity_Joint_Account#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Solidity_Joint_Account#license)
+- [Overview of the project](https://github.com/nataliaburrey/ERC-20_fungible_token#overview-of-the-project) 
+- [Project goals](https://github.com/nataliaburrey/ERC-20_fungible_token#project-goals)
+- [Project steps](https://github.com/nataliaburrey/ERC-20_fungible_token#project-steps)
+- [Software version control](https://github.com/nataliaburrey/ERC-20_fungible_token#software-version-control)
+    - [Work with GitHub](https://github.com/nataliaburrey/ERC-20_fungible_token#work-with-github)
+    - [How to install](https://github.com/nataliaburrey/ERC-20_fungible_token#how-to-install)
+- [Helps recruiters](https://github.com/nataliaburrey/ERC-20_fungible_token#helps-recruiters)
+- [License](https://github.com/nataliaburrey/ERC-20_fungible_token/blob/main/LICENSE)
 
 
 
@@ -81,7 +81,7 @@ cd desktop
 git clone https://github.com/nataliaburrey/ERC-20_fungible_token.git
 ```
 
-now you can find the folder Solidity_Joint_Account on your desktop
+now you can find the folder ERC-20 fungible token on your desktop
 
 
 
@@ -90,10 +90,6 @@ now you can find the folder Solidity_Joint_Account on your desktop
 
 The project was created in collaboration with Berkeley Fintech Bootcamp team
 
-
-## License
-
-[MIT](https://github.com/nataliaburrey/Solidity_Joint_Account/blob/main/LICENSE)
 
 
 
