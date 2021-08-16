@@ -15,7 +15,6 @@
 
 ## Table of content
 - [Overview of the project](https://github.com/nataliaburrey/ERC-20_fungible_token#overview-of-the-project) 
-- [Project goals](https://github.com/nataliaburrey/ERC-20_fungible_token#project-goals)
 - [Project steps](https://github.com/nataliaburrey/ERC-20_fungible_token#project-steps)
 - [Software version control](https://github.com/nataliaburrey/ERC-20_fungible_token#software-version-control)
     - [Work with GitHub](https://github.com/nataliaburrey/ERC-20_fungible_token#work-with-github)
@@ -32,20 +31,24 @@ Creating a fungible token that is ERC-20 compliant and that will be minted by us
 The crowdsale contract is managing the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
 
-## Project goals
-
-
-
 
 ## Project steps 
 
 The steps for this Challenge are divided into the following sections:
 
     1. Create the KaseiCoin Token Contract
+    
+<img width="1111" alt="Screen Shot 2021-08-15 at 9 24 15 PM" src="https://user-images.githubusercontent.com/80833988/129511288-392dbbf9-7b42-4f7f-9f14-e11d7040dc9c.png">
+
 
     2. Create the KaseiCoin Crowdsale Contract
+    
+<img width="1109" alt="Screen Shot 2021-08-15 at 9 24 36 PM" src="https://user-images.githubusercontent.com/80833988/129511309-19d52cf7-162c-402e-aa1b-5944f0740043.png">
 
     3. Create the KaseiCoin Deployer Contract
+    
+<img width="946" alt="Screen Shot 2021-08-15 at 9 25 39 PM" src="https://user-images.githubusercontent.com/80833988/129511392-78b6a7f2-7c92-45b8-b457-7d33783d86fe.png">
+
 
     4. Deploy the Crowdsale to a Local Blockchain
 
