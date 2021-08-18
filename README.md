@@ -1,16 +1,13 @@
 
 # KaseiCoin ERC-20 fungible token  .
 
-
-<img width="853" alt="Screen Shot 2021-08-15 at 8 54 48 PM" src="https://user-images.githubusercontent.com/80833988/129509438-c6a8204e-d63e-40ee-8ea6-0d376376efca.png">
-
-
-
-
 📌 Challenge 21
 
 > " Crowdsale of KaseiCoin created with solidity. A fungible token that is ERC-20 compliant. Deployed with Remix IDE and tested with Ganache and MetaMask".
 "
+
+
+<img width="805" alt="Screen Shot 2021-08-17 at 4 55 58 PM" src="https://user-images.githubusercontent.com/80833988/129815451-59e547f3-f851-494c-80ed-b54655d30810.png">
 
 
 ## Table of content
@@ -55,9 +52,46 @@ The steps for this Challenge are divided into the following sections:
 
 ##### Deploy the crowdsale to a local blockchain with Remix, MetaMask, and Ganache.
 
+<img width="578" alt="Screen Shot 2021-08-17 at 5 13 33 PM" src="https://user-images.githubusercontent.com/80833988/129816723-bae44422-15b1-45ff-a3f4-8e70f51a9565.png">
+
+
+<img width="375" alt="Screen Shot 2021-08-17 at 3 20 13 PM" src="https://user-images.githubusercontent.com/80833988/129816620-098c7d07-3ce5-4ea8-a1b7-d049c15215da.png">
+
+
+
+https://user-images.githubusercontent.com/80833988/129816362-144cfbb1-163a-4999-a9de-173854a7c643.mov
+
+
+<img width="352" alt="Screen Shot 2021-08-17 at 3 16 40 PM" src="https://user-images.githubusercontent.com/80833988/129816183-ccec70fb-a15b-4e74-87b8-f9ef9b842062.png">
+
+
 ##### Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accounts.
 
+<img width="1189" alt="Screen Shot 2021-08-17 at 3 28 15 PM" src="https://user-images.githubusercontent.com/80833988/129816397-21ff15c8-414f-4da8-a23d-2f92b028aaef.png">
+
+<img width="304" alt="Screen Shot 2021-08-17 at 3 26 28 PM" src="https://user-images.githubusercontent.com/80833988/129816510-c5993edd-b43d-4d97-9daa-24dd0ea8e7e0.png">
+
+
+<img width="294" alt="Screen Shot 2021-08-17 at 3 27 53 PM" src="https://user-images.githubusercontent.com/80833988/129816458-27288993-0a6b-414e-9819-08a5bea471c3.png">
+
+
+
 ##### After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
+
+
+
+
+    5. Record a short video or take several screenshots that show the deployed contract in action.
+
+
+
+https://user-images.githubusercontent.com/80833988/129816318-1d67a9b5-6ccf-4d4f-bd06-debb5706541f.mov
+
+<img width="307" alt="Screen Shot 2021-08-17 at 3 21 26 PM" src="https://user-images.githubusercontent.com/80833988/129816265-10adbd01-c31b-4f71-b3d3-68d20236a155.png">
+
+    6. Optional: Use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created.
+    
+    <img width="1060" alt="Screen Shot 2021-08-17 at 5 05 21 PM" src="https://user-images.githubusercontent.com/80833988/129816143-640c954f-3561-4239-9a0e-0e66e390d021.png">
 
 
 
