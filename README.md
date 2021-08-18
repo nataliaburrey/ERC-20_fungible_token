@@ -72,13 +72,10 @@ https://user-images.githubusercontent.com/80833988/129816362-144cfbb1-163a-4999-
 <img width="304" alt="Screen Shot 2021-08-17 at 3 26 28 PM" src="https://user-images.githubusercontent.com/80833988/129816510-c5993edd-b43d-4d97-9daa-24dd0ea8e7e0.png">
 
 
-<img width="294" alt="Screen Shot 2021-08-17 at 3 27 53 PM" src="https://user-images.githubusercontent.com/80833988/129816458-27288993-0a6b-414e-9819-08a5bea471c3.png">
-
-
 
 ##### After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
 
-
+<img width="294" alt="Screen Shot 2021-08-17 at 3 27 53 PM" src="https://user-images.githubusercontent.com/80833988/129816458-27288993-0a6b-414e-9819-08a5bea471c3.png">
 
 
     5. Record a short video or take several screenshots that show the deployed contract in action.
@@ -89,10 +86,10 @@ https://user-images.githubusercontent.com/80833988/129816318-1d67a9b5-6ccf-4d4f-
 
 <img width="307" alt="Screen Shot 2021-08-17 at 3 21 26 PM" src="https://user-images.githubusercontent.com/80833988/129816265-10adbd01-c31b-4f71-b3d3-68d20236a155.png">
 
-    6. Optional: Use OpenZeppelin to extend the functionality of your crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created.
+    6. Optional: Use OpenZeppelin to extend the functionality of your crowdsale contract 
+    by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created.
     
-    <img width="1060" alt="Screen Shot 2021-08-17 at 5 05 21 PM" src="https://user-images.githubusercontent.com/80833988/129816143-640c954f-3561-4239-9a0e-0e66e390d021.png">
-
+ <img width="1169" alt="Screen Shot 2021-08-17 at 5 16 08 PM" src="https://user-images.githubusercontent.com/80833988/129816877-6a07cf59-f73e-40db-874d-68bea5410205.png">
 
 
 ## Software version control
