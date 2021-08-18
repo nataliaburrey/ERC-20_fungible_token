@@ -98,6 +98,11 @@ https://user-images.githubusercontent.com/80833988/129816318-1d67a9b5-6ccf-4d4f-
 
 Remix - Ethereum IDE is an open source web and desktop application. It fosters a fast development cycle and has a rich set of plugins with intuitive GUIs. Remix is used for the entire journey of contract development as well as being a playground for learning and teaching Ethereum.
 
+[MetaMask](https://metamask.io/) allows users to store and manage account keys, broadcast transactions, send and receive Ethereum-based cryptocurrencies and tokens, and securely connect to decentralized applications through a compatible web browser or the mobile app's built-in browser. 
+For the purpose of challange we will create an enviroment and use paper trade Etherium to showcase crowdsale of our Token
+
+[Ganache](https://www.trufflesuite.com/ganache) allows us to quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates. we will use it in this challenge to create a personal blockchain for rapid Ethereum distributed application development and test our crowdsale contract in a safe and deterministic environment.
+
 ### Work with GitHub
 * Repository created on GitHub
 * Files were  committed using command line
